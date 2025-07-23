@@ -1,0 +1,7 @@
+#about {
+  background-color: var(--surface-color);
+}
+
+#about .enven-columns {
+  gap: 2rem;
+}

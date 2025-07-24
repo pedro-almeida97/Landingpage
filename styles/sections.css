@@ -3,9 +3,6 @@
   background: url(../assets/images/Illustration.jpg) top/cover;
 }
 
-section header {
-}
-
 section header strong {
   display: block;
   font: var(--fw-md) var(--fs-sm) / 100% var(--ff-sans);

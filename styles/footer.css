@@ -1,0 +1,37 @@
+footer {
+  color: var(--text-color-secondary);
+  font-weight: var(--fw-md);
+}
+
+footer .container .top {
+  gap: 3rem;
+}
+
+footer .container nav {
+  gap: 4rem;
+}
+
+#nav {
+  align-items: start;
+}
+
+.title {
+  font-size: 0.75rem;
+  letter-spacing: 0.08rem;
+  text-transform: uppercase;
+  color: var(--brand-color-primary);
+}
+
+.bottom {
+  margin-top: 5rem;
+  flex-wrap: wrap;
+}
+
+.bottom div {
+  margin-right: auto;
+}
+
+.bottom span {
+  margin-top: 10px;
+  font-size: 0.875rem;
+}
